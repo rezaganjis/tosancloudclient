@@ -1,0 +1,8 @@
+spring.cloud.config.uri: http://localhost:8888
+spring.cloud.config.name: tosancloudclient
+spring:
+  cloud:
+    config:
+     token: 00000000-0000-0000-0000-000000000000
+     
+     
